@@ -7,7 +7,7 @@ PortaPack-Havoc-HackRF
 
 `git clone https://github.com/marcinwrobel1986/PortaPack-Havoc-HackRF.git`
 
-`cd PortaPack-Havoc`
+`cd PortaPack-Havoc-HackRF`
 
 `sudo chmod 777 ./flash.sh`
 
