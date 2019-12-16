@@ -5,7 +5,7 @@ PortaPack-Havoc-HackRF
 
 `sudo apt install git`
 
-`git clone https://github.com/marcinwrobel1986/PortaPack-Havoc.git`
+`git clone https://github.com/marcinwrobel1986/PortaPack-Havoc-HackRF.git`
 
 `cd PortaPack-Havoc`
 
