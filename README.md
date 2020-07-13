@@ -9,7 +9,7 @@ PortaPack-Havoc-HackRF
 
 `cd PortaPack-Havoc-HackRF`
 
-`sudo chmod 777 ./flash.sh`
+`sudo chmod 777 flash.sh`
 
 For Havoc: `./flash.sh portapack-h1-havoc.bin`
 
